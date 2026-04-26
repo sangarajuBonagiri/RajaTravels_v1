@@ -1,3 +1,22 @@
+## 🧑‍💻 How This Website Was Built
+
+1. Created Next.js React project
+2. Added Tailwind CSS for styling
+3. Designed premium Raja Travels UI
+4. Added official logo and brand colors
+5. Created sections:
+   - Bus Travels
+   - Papikondalu Tourism
+   - Contact
+6. Added cinematic video backgrounds
+7. Added booking inquiry form
+8. Connected WhatsApp inquiry button
+9. Added responsive mobile design
+10. Optimized project for Vercel deployment
+11. Uploaded code to GitHub
+12. Deployed website using Vercel
+
+Prompt : 
 Create a premium, modern, highly animated React.js + Next.js (latest App Router) website for “Raja Travels”, designed for deployment on Vercel.
 
 IMPORTANT GOAL:
